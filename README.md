@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-Indra%20Dwiyulianto-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://indradwiyulianto.my.id/)
 [![LinkedIn Badge](https://img.shields.io/badge/-indra%20dwiyulianto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-dwiyulianto/)
-[![Gmail Badge](https://img.shields.io/badge/-idyulianto1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:idyulianto1@gmail.com)](mailto:idyulianto1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-workingindra1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workingindra1@gmail.com)](mailto:workingindra1@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
