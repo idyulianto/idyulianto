@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-Indra%20Dwiyulianto-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://indradwiyulianto.my.id/)
 [![LinkedIn Badge](https://img.shields.io/badge/-indra%20dwiyulianto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-dwiyulianto/)
-[![Gmail Badge](https://img.shields.io/badge/-workingindra1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workingindra1@gmail.com)](mailto:workingindra1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-idyulianto1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:idyulianto1@gmail.com)](mailto:idyulianto1@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,11 +11,11 @@
 
 As a computer science student, I believe that technology is a tool for turning ideas into reality. I am passionate about creating software that is not only functional, but also intuitive and stunning.
 
-<a href="https://github.com/workingindra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=workingindra&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<a href="https://github.com/idyulianto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idyulianto&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/workingindra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workingindra&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<a href="https://github.com/idyulianto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyulianto&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 ## My Latest Posts
