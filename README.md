@@ -10,6 +10,7 @@
 -->
 
 As a computer science student, I believe that technology is a tool for turning ideas into reality. I am passionate about creating software that is not only functional, but also intuitive and stunning
+
 <a href="https://github.com/workingindra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=workingindra&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
