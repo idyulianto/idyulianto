@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/workingindra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=workingindra&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/zuramai">
+<a href="https://github.com/workingindra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workingindra&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
