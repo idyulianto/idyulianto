@@ -12,7 +12,7 @@
 As a computer science student, I believe that technology is a tool for turning ideas into reality. I am passionate about creating software that is not only functional, but also intuitive and stunning.
 
 <a href="https://github.com/idyulianto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idyulianto&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=idyulianto&count_private=true&show_icons=true&theme=chartreuse-dark&cache=false" />
 </a>
 <a href="https://github.com/idyulianto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyulianto&layout=compact&theme=chartreuse-dark&langs_count=8&cache=false" />
