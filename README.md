@@ -1,6 +1,6 @@
 ## Hi there, I am Indra 👋
 
-[![Website](https://img.shields.io/badge/-indradwiyulianto-0A66C2?logo=linkedin&logoColor=white)](https://indradwiyulianto.my.id/)
+[![Website](https://img.shields.io/badge/-indradwiyulianto-258cf4?logo=linkedin&logoColor=white)](https://indradwiyulianto.my.id/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-dwiyulianto/)
 
 <!--
