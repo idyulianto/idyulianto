@@ -15,7 +15,7 @@ As a computer science student, I believe that technology is a tool for turning i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=idyulianto&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/idyulianto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyulianto&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyulianto&layout=compact&theme=chartreuse-dark&langs_count=8&cache=false" />
 </a>
 
 ## My Latest Posts
