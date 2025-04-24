@@ -1,7 +1,8 @@
-## Hi there, I am Indra Dwiyulianto 👋
+## Hi I'm Indra 👋
 
-[![Website](https://img.shields.io/badge/-indradwiyulianto-4CA143?logo=linkedin&logoColor=white)](https://indradwiyulianto.my.id/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-dwiyulianto/)
+[![Website Badge](https://img.shields.io/badge/-indradwiyulianto-4CA143?logo=linkedin&logoColor=white)](https://indradwiyulianto.my.id/)
+[![LinkedIn Badge](https://img.shields.io/badge/-indra-dwiyulianto-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indra-dwiyulianto/)
+[![Gmail Badge](https://img.shields.io/badge/-workingindra1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:workingindra1@gmail.com)](mailto:workingindra1@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
