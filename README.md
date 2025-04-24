@@ -15,12 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workingindra&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
-### 🤝 Connect with Me  
-<p>
-  <a href="https://indradwiyulianto.my.id/">
-    <img alt="Portofolio" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ilza-batistuta-07a010347/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-</p>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://indradwiyulianto.my.id/blog-detail/teknologi-masa-depan-tantangan-dan-tren-yang-akan-terjadi"><b><img src="https://indradwiyulianto.my.id/assets/uploads/blog/88e8aef0f4402ef21d2c24543e55020c.jpg" width="20" alt="post_1" /> Teknologi Masa Depan Tantangan Dan Tren Yang Akan Terjadi.</i></li>
+</ul>
