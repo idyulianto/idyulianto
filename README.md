@@ -19,9 +19,3 @@ I'm a **Developer Enthusiast** focused on building reliable, scalable, and usefu
 ### GitHub Contributions
 
 ![GitHub Contributions](https://ghchart.rshah.org/idyulianto)
-
-### GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/04DF72/idyulianto" alt="GitHub Contributions" />
-</p>
