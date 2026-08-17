@@ -1,7 +1,6 @@
 # Hi, I'm Indra 👋
 
-I'm a **Developer Enthusiast** focused on building reliable,  
-scalable, and useful software.
+I'm a **Developer Enthusiast** focused on building reliable, scalable, and useful software.
 
 ### What I do
 
@@ -9,7 +8,7 @@ scalable, and useful software.
 
 ### Technologies
 
-**PHP** · **TypeScript** · **Next.js** · **React** · **CodeIgniter** · **SQL Server** · **Flutter**
+**PHP** · **TypeScript** · **Next.js** · **React** · **SQL Server** · **Flutter**
 
 ### Now
 
