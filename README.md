@@ -15,3 +15,7 @@ I'm a **Developer Enthusiast** focused on building reliable, scalable, and usefu
 > Building better systems, one commit at a time. 🚀
 
 [Portfolio](https://www.indradwiyulianto.my.id) · [GitHub](https://github.com/idyulianto)
+
+### GitHub Contributions
+
+![GitHub Contributions](https://ghchart.rshah.org/idyulianto)
